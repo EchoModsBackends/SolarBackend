@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/bgZWZT0/B07-DF3-FC-D2-E7-4-AD5-9935-04-C441-BDFEBD.png)
+![Banner](https://cdn.discordapp.com/attachments/1211829266912907264/1254553165962149938/a4f89e9795474cdc3d931d29c7f20d51.png?ex=6679e92f&is=667897af&hm=e1ed7023beb60090a8826c3ed692abddf901a9334741cf26f661b160555da54f&)
 
 [![pnpm](https://img.shields.io/badge/maintained%20with-pnpm-cc00ff.svg?style=for-the-badge&logo=pnpm)](https://pnpm.io/) 
 ![Size](https://img.shields.io/github/repo-size/Nexus-FN/Momentum?label=Size&style=for-the-badge)
