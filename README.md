@@ -25,6 +25,10 @@ Huge thanks to @thisisanto on Discord for the ESM rewrite and many code improvem
 - [x] Fully featured matchmaker with queue
 - [x] Working gifting
 - [x] New Backend Modded!!
+- [x] Adding New Commands
+- [x] adding auto shop!!
+- [x] adding Arena?
+- [x] Customizable Things
 ## Installation
 
 <p align="center">
